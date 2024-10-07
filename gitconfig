@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = kidamarhare@gmail.com
+	name = idamarhare kevin
